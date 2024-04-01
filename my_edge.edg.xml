@@ -1,0 +1,9 @@
+<edges>
+ <edge from="n1" to="n2" id="1_2" type="2L16"/>
+ <edge from="n2" to="n3" id="2_3" type="2L16"/>
+ <edge from="n2" to="n4" id="2_4" type="2L16"/>
+ <edge from="n3" to="n4" id="3_4" type="2L16"/>
+ <edge from="n4" to="n5" id="4_5" type="1L16"/>
+ <edge from="n4" to="n6" id="4_6" type="1L16"/>
+ <edge from="n5" to="n10" id="5_10" type="2L16"/>
+</edges>

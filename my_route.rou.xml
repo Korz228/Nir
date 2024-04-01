@@ -1,0 +1,18 @@
+<routes>
+   <route id = "route0" edges =" 1_2 2_3 3_4 4_5"/>
+   <route id = "route1" edges =" 1_2 2_3 3_4 4_5"/>
+   <route id = "route2" edges =" 1_2 2_3 3_4 4_5"/>
+   <route id = "route3" edges =" 1_2 2_4 4_5"/>
+
+   <vType id="vClass" maxSpeed="70"/>
+   <vehicle id="veh0" depart="0" route="route3" type="vClass"/>
+   <vehicle id="veh1" depart="30" route="route3" type="vClass"/>
+   <vehicle id="veh2" depart="35" route="route3" type="vClass"/>
+   <vehicle id="veh3" depart="40" route="route2" type="vClass"/>
+   <vehicle id="veh4" depart="100" route="route3" type="vClass"/>
+   <vehicle id="veh5" depart="110" route="route3" type="vClass"/>
+   <vehicle id="veh6" depart="140" route="route2" type="vClass"/>
+   <vehicle id="veh7" depart="150" route="route2" type="vClass"/>
+   <vehicle id="veh8" depart="200" route="route3" type="vClass"/>
+   <vehicle id="veh9" depart="220" route="route3" type="vClass"/>
+</routes>

@@ -1,0 +1,12 @@
+<nodes>
+ <node id="n1" x="-500" y="0" type="priority"/>   
+ <node id="n2" x="-250" y="0" type="traffic_light"/>
+ <node id="n3" x="-150" y="200" type="traffic_light"/>
+ <node id="n4" x="0" y="0" type="traffic_light"/>
+ <node id="n5" x="150" y="200"/>
+ <node id="n6" x="490" y="143"/>
+ <node id="n7" x="494" y="206"/>
+ <node id="n8" x="120" y="104"/>
+ <node id="n9" x="390" y="-74"/>
+ <node id="n10" x="732" y="149"/>
+</nodes>
